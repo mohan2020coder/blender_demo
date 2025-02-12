@@ -1,0 +1,14 @@
+blender building shortcuts and imports
+
+
+shift + a - is used to add the objects
+
+drag and drop the image .. rotation - 180*
+
+edit-perferences->get extensions - > extra mesh objects
+
+in object mode 
+shift + a -> mesh -> single vertex
+
+extude - shift + spacebar
+
