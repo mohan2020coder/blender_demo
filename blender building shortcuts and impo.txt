@@ -12,3 +12,10 @@ shift + a -> mesh -> single vertex
 
 extude - shift + spacebar
 
+
+f - key is used for filling the face of vertex/edges
+z - used to switch with the wireframe
+
+
+add mesh archimesh add-on for windows and door easy modelling
+
